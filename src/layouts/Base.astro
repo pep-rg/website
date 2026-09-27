@@ -1,0 +1,62 @@
+---
+import '../styles/global.css';
+import { site, alternatePath, type Lang } from '../i18n';
+
+interface Props {
+  title?: string;
+  description?: string;
+  lang?: Lang;
+  /** 他言語版が同じ構成で存在しない場合の切替先 */
+  alt?: string;
+}
+
+const { title, description, lang = 'ja', alt } = Astro.props;
+const t = site[lang];
+const pathname = Astro.url.pathname;
+const altHref = alt ?? alternatePath(pathname, lang);
+const fullTitle = title ? `${title} | ${t.name}（PEP）` : `${t.name}（PEP）`;
+const isCurrent = (href: string) => pathname === href || pathname === href.replace(/\/$/, '');
+const home = lang === 'en' ? '/en/' : '/';
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="alternate" hreflang={lang === 'ja' ? 'en' : 'ja'} href={new URL(altHref, Astro.site)} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <a class="skip" href="#main">{lang === 'ja' ? '本文へ移動' : 'Skip to content'}</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href={home}>
+          <span class="brand-mark">PEP</span>
+          <span class="brand-text">
+            <span class="brand-name">{t.name}</span>
+            <span class="brand-tag">{t.tagline}</span>
+          </span>
+        </a>
+        <a class="lang-switch" href={altHref} hreflang={lang === 'ja' ? 'en' : 'ja'}>{t.switchLabel}</a>
+      </div>
+      <nav class="wrap site-nav" aria-label={lang === 'ja' ? 'メインメニュー' : 'Main menu'}>
+        <ul>
+          {t.nav.map((item) => (
+            <li><a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>{item.label}</a></li>
+          ))}
+        </ul>
+      </nav>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p class="footer-address">{t.footerAddress}</p>
+        <p class="footer-copy">© {t.copyright}</p>
+      </div>
+    </footer>
+  </body>
+</html>

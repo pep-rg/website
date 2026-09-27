@@ -1,0 +1,183 @@
+- 口の動きに焦点を当てた英語リンキング指導の効果
+  - 阪上 潤
+  - [The JACET 60th Commemorative International Convention](https://jacet.org/jacet60th/)：2021年8月28日（土）＠オンライン
+- 日本の英語教育におけるライティング指導はどうあるべきか？ ―高大連携の英語ライティング指導への取り組みから― （JACET Hours シンポジウム）
+  - 山下 美朋（司会）, 山岡 憲史, 山田 浩, 三仙 真也, 武田 菜々子
+  - [The JACET 60th Commemorative International Convention](https://jacet.org/jacet60th/)：2021年8月27日（金）＠オンライン
+- オンライン授業の相互見学による大学横断型FDの可能性と課題
+  - 木村 修平, 近藤 雪絵, 神谷 健一, 坂本 洋子, 神崎 秀嗣, 長谷川 元洋
+  - [2021PCカンファレンス](https://gakkai.univcoop.or.jp/pcc/2021/)：2021年8月22日（日）＠オンライン
+- 英文構造作図Webアプリを用いた精読教育の新たな可能性
+  - 木村 修平
+  - [LET（外国語教育メディア学会）第60回全国研究大会](https://www.j-let.org/let2021/)：2021年8月21日（土）@オンライン
+- What expertise and instruction strategies are expected from writing center tutors in the science department in university?
+  - 山下 美朋
+  - [AILA WORLD CONGRESS 2021](https://aila.info/19th-aila-world-congress/)：2021年8月17日（火）@オンライン
+- 高等学校における英語ライティング指導の実態調査 ―学校では何が教えられているか？ー
+  - 山下 美朋, 長倉 若
+  - [全国英語教育学会　(JASELE） 第46回長野研究大会](https://www.celes.info/jasele2021/)：2021年8月7日（土）@オンライン
+- “共有”が支えた正課英語プログラムの大規模オンライン実施―教材、知見、アイデアのメッシュ化について―
+  - 木村 修平, 近藤 雪絵, 大賀 まゆみ, 落合 淑美, 延田 リサ, 山下 美朋
+  - [第27回大学教育研究フォーラム](http://www.highedu.kyoto-u.ac.jp/forum/2020/)：2021年3月18日（木）＠オンライン発表
+- BYOD環境を前提とした 大学授業のフィージビリティ研究 -プロジェクト型英語プログラムの実践に基づいて-
+  - 木村 修平, 近藤 雪絵, 島田 伸敬
+  - [AXIES2020年度年次大会](https://axies.jp/conf/conf2020/)：2020年12月10日（木）＠オンライン発表
+- as N as 構文の N
+  - 松田 佑治
+  - 日本英語学会第38回大会： 2020年11月7日（土）＠オンライン発表
+- 現代英語における as … as possible の振る舞い—比較表現の重なり as … as … as possible—
+  - 松田 佑治
+  - 英語語法文法学会第28回大会：2020年10月17日（土）〜23日（金）＠オンライン発表
+- 現代英語における he/she of NP の振る舞い−COCAでの調査から−
+  - 松田 佑治
+  - 英語コーパス学会第46回大会：2020年10月4日（日）＠オンライン発表
+- BYODとクラウドが中心となるコロナ後の教育ICT環境
+  - 木村 修平
+  - e-Learning教育学会 緊急シンポジウム2020：2020年9月20日（日）＠オンライン発表
+- 非常時の大学英語授業のオンライン実施に関する考察―2020年度春学期の振り返り―
+  - 木村 修平, 近藤 雪絵
+  - [2020PCカンファレンス](https://gakkai.univcoop.or.jp/pcc/2020/)：2020年8月19日（水）＠オンライン発表
+- LMSダウンの危機を救ったSlackという名の箱舟―チャット型コミュニケーションの教育活用を考える―
+  - 木村 修平
+  - [FLExICT2020緊急シンポジウム](https://peatix.com/event/1519580)：2020年7月26日（日）＠オンライン発表
+- 「Web授業」でアクティブラーニング型ワークショップを行うためのツール適材適所：LMSとしてのSlack＋OneDrive, Google Drive, Zoom, 学内LMSのあわせ技
+  - 近藤 雪絵
+  - [FLExICT2020緊急シンポジウム](https://peatix.com/event/1519580)：2020年7月26日（日）＠オンライン発表
+- ICTで加速する語学教員の働き方改革―チームによるクラウド活用の初歩―
+  - 木村 修平
+  - [LET関西支部2020年度春季研究大会](http://www.let-kansai.org/htdocs/index.php?key=jolfpd96a-204)：2020年5月16日（土）
+- BYOD 環境下でのプロジェクト型英語授業の要件に関する考察
+  - 木村 修平
+  - CIEC春季カンファレンス：2020年3月22日（日）＠オンライン発表
+- プロジェクト型英語授業におけるICTを用いた学習デザインの考察―リサーチ、オーサリング、コラボレーション、アウトプットの4要素にもとづいて―
+  - 木村 修平, 落合 淑美, 近藤雪絵
+  - 第26回大学教育研究フォーラム：2020年3月18日（木）＠京都大学
+- Argumentative essays written by Japanese university students focusing on rhetorical structures and logical anomalies
+  - YAMASHITA Miho
+  - Hawai'i International Conference on English Language and Literature Studies (HICELLS 2020)：2020年3月13日（金）＠オンライン発表
+- G Suite for Educationを用いた英語教員支援Webアプリ3種の開発と実践
+  - 木村 修平
+  - [FLExICT Expo 2019](https://flexict-expo-2019.jimdofree.com/)：2020年2月23日（日）＠大阪工業大学梅田キャンパス
+- A Rubric Constructing Activity Gives Opportunities for Goal Setting and Reflection to EFL College Students
+  - OCHIAI Yoshimi
+  - 16th Annual CamTESOL Conference on English Language Teaching: 2月８日（土）＠Institute of Technology Cambodia
+- [ライティング支援センターSAPPにおける院生チューターの指導戦略 (An analysis into tutor’s instructional strategies in the writing support center SAPP)](http://www.jacet-kansai.org/file/2019s-1.pdf)
+  - 山下 美朋
+  - 2019年度⼤学英語教育学会（JACET）関⻄⽀部⼤会：2019年11月16日（土）＠同志社大学今出川キャンパス
+- [クラス合同発表イベントが学⽣の学習意欲に及ぼす影響 (Effects of a Joint Class Presentation Event on Student Learning Motivation)](http://www.jacet-kansai.org/file/2019s-1.pdf)
+  - 落合 淑美, 大賀 まゆみ
+  - 2019年度⼤学英語教育学会（JACET）関⻄⽀部⼤会：2019年11月16日（土）＠同志社大学今出川キャンパス
+- [正課授業での⽴命館⼤学ラーニングコモンズ利⽤実践の報告 オーディエンスと発表者の視点から (Report on Audience and Presenter Perspective on the Use of Learning Commons in a Required English Course at Ritsumeikan University)](http://www.jacet-kansai.org/file/2019s-1.pdf)
+  - 大賀 まゆみ, 落合 淑美
+  - 2019年度⼤学英語教育学会（JACET）関⻄⽀部⼤会：2019年11月16日（土）＠同志社大学今出川キャンパス
+- [[語法文法ワークショップ] as … as (…) can be 再考](http://segu.sakura.ne.jp/events.php)
+  - 松田 佑治
+  - 英語語法文法学会第27回大会：2019年10月19日（土）＠北九州市立大学北方キャンパス
+- [「この上なく…だ」を示す as … as 構文と about との共起傾向を探る―(about) as … as it gets, (about) as … as they come, (about) as … as you (can) get―](http://jaecs.com/conf/CF_45.pdf)
+  - 松田 佑治
+  - 2019 年度 英語コーパス学会（JAECS）第45回大会：2019年10月6日（日）@高知県立大学永国寺キャンパス
+- [プロジェクト型英語授業とICT活用の合理的相関についての考察：BYODの次なる段階を見据えて](http://www.let-kansai.org/htdocs/?action=common_download_main&upload_id=1069)
+  - 木村 修平
+  - 2019年度LET関西支部秋季研究大会：2019年10月5日（土）＠広島大学東千田キャンパス
+- [Move Analysis of Hotel Overviews on Official Websites of Hotels in Japan: Luxury Strategies in Overview Text](http://jaecs.com/conf/CF_45.pdf)
+  - KONDO Yukie
+  - 2019年度 英語コーパス学会（JAECS）第45回大会：2019年10月5日（土）@高知県立大学永国寺キャンパス
+- [Introduction of Teacher’s Feedback Sheets for Recasting Students’ Errors and Building Their Schemata for Revision in an Academic Writing Class](https://www.jacet.org/convention/2019-2/)
+  - 落合 淑美
+  - 大学英語教育学会（JACET） 第58回国際大会：2019年8月28日＠名古屋工業大学
+- [From ‘Computer-Assisted’ to ‘Computer-Integrated’: A New Frontier of Language Education](https://www.j-let.org/fleatvii/)
+  - KIMURA Syuhei
+  - FLEAT VII (International Conference on Foreign Language Education & Technology)：2019年8月9日（金）@Waseda University
+- [TypeScript による英文構造式エディタの試作と電子教材としての活用可能](http://gakkai.univcoop.or.jp/pcc/2019/papers/pdf/pcc004.pdf)
+  - 木村 修平
+  - 2019PCカンファレンス：2019年8月8日（木）＠甲南大学岡本キャンパス
+- [A Multimodal Design Approach for Teaching PowerPoint Presentations](https://www.j-let.org/fleatvii/)
+  - NOBETA Lisa
+  - FLEAT VII (International Conference on Foreign Language Education & Technology)：2019年8月7日（水）@Waseda University
+- [Practice report on Slack as a social communication platform to boost student interaction and motivation in pre-entrance English education](https://www.j-let.org/fleatvii/)
+  - KONDO Yukie
+  - FLEAT VII (International Conference on Foreign Language Education & Technology)：2019年8月7日（水）@Waseda University
+- [英語アブストラクト執筆支援ツール「あぶすと！」の開発とその可能性](http://www.jacet-kansai.org/)
+  - 山下 美朋
+  - JACET関西ESP第2回研究会：2019年7月20日＠大阪医科大学
+- [⾔語に表現されるluxury︓Four Seasons Hotelのウェブサイトを⽤いたケーススタディより](http://jaecs.com/doc/spring2019.pdf)
+  - 近藤 雪絵
+  - 英語コーパス学会 春季研究会：2019年4月20日＠名古屋工業大学
+- 英語アブストラクト執筆⽀援ツール開発のための科学論⽂分析
+  - 山下 美朋
+  - 英語コーパス学会 春季研究会：2019年4月20日＠名古屋工業大学
+- [英語ライティング支援とアブストラクト作成支援ツール「あぶすと!」の開発](http://www.highedu.kyoto-u.ac.jp/forum/2018/pdf/program_final.pdf)
+  - 山下 美朋
+  - 第25回大学教育研究フォーラム：2019年3月23日（土）＠京都大学
+- [英語プログラム独自FDを通じた新任教員の研修と効果―所属レイヤーに最適化したサポート体制の一事例として―](http://www.highedu.kyoto-u.ac.jp/forum/2018/pdf/program_final.pdf)
+  - 木村 修平, 落合 淑美, 近藤 雪絵
+  - 第25回大学教育研究フォーラム：2019年3月23日（土）＠京都大学
+- [How Can We Encourage Students to "Interact" and "Produce" in English Classes?: Voices of Japanese EFL Teachers](https://papers.iafor.org/submission44430/)
+  - IKOMA Maki
+  - The IAFOR International Conference on Education - Hawaii 2019：2019年1月5日（土）@The Hawai‘i Convention Center, Honolulu, Hawaii, United States
+- [上海の中学校の英語授業における教員の言語使用─二年に渡る分析の結果から─ (A Teachers’ Language Use in Junior High School English Classrooms in Shanghai: from the Results of Analysis over Two Years)](http://www.jacet-kansai.org/file/2018s-1.pdf)
+  - 大賀 まゆみ
+  - 2018年度大学英語教育学会（JACET）関西支部大会：2018年11月17日（土）＠関西学院大学（上ケ原キャンパス）
+- [ビデオ視聴による自己フィードバックをプレゼンテーション能力向上につなげる試み](http://www.jacet-kansai.org/file/2018s-1.pdf)
+  - 三木 訓子
+  - 2018年度大学英語教育学会（JACET）関西支部大会：2018年11月17日（土）＠関西学院大学（上ケ原キャンパス）
+- [Challenges Associated with the Implementation of Active Learning: A Small-scale Study of Japanese University EFL Teachers](https://papers.iafor.org/submission43031/)
+  - IKOMA Maki
+  - The Tenth Asian Conference on Education 2018：2018年10月14日（日）＠都市センターホテル（東京）
+- [Project-based Learning through TED](http://www.jacet-kansai.org/file/2017f-1.pdf)
+  - TATSUMI Ryo, HAWKINSON Eric
+  - 第24回映像メディア英語教育学会全国大会＠京都外国語大学：2018年10月27日（土）
+- [科学英語に特化したライティング支援センター設立とその可能性 Establishment and Possibilities of the Writing Support Center Focusing on English of Life Sciences](http://www.jacet-kansai.org/file/2017f-1.pdf)
+  - 山下 美朋, 大賀 まゆみ
+  - JACET関西支部　2017年度秋季大会＠大阪樟蔭女子大学（小阪キャンパス）：2017年11月25日（土）
+- [学際的な team teaching による学生の英語発信力育成: 薬学専門教科の教員と英語教員はどのようにコラボレーションできるか](http://jsphe-hcom.com/)
+  - 近藤 雪絵, 木村 修平
+  - 第2回日本薬学教育学会大会＠名古屋市立大学薬学部（田辺通キャンパス）：2017年9月2日（土）
+- [Designing a new assessment model for project-based English education program in a Japanese university](http://www.aila2017.com.br/index.php/en/)
+  - KIMURA Syuhei, KONDO Yukie, YAMASHITA Miho, YAMANAKA Tsukasa
+  - 第18回国際応用言語学会世界大会（AILA2017）＠Windsor Barra Hotel and Convention Center, Rio de Janeiro, Brazil：2017年7月24日（月）
+- [思考整理に焦点をあてた協働的ライティング活動の試み ―プレライティング活動が学生の学習に及ぼす影響―](https://www.letchubu.net/modules/xpwiki/?%E5%A4%96%E5%9B%BD%E8%AA%9E%E6%95%99%E8%82%B2%E5%9F%BA%E7%A4%8E%E7%A0%94%E7%A9%B6%E9%83%A8%E4%BC%9A%E7%AC%AC4%E5%9B%9E%E5%B9%B4%E6%AC%A1%E4%BE%8B%E4%BC%9A#xc3492b0)
+  - 辻 香代
+  - 外国語教育メディア学会中部支部 外国語教育基礎研究部会 第4回年次例会＠名城大学ナゴヤドーム前キャンパス：2016年12月17日（土）
+- [動画によるプレゼンテーションの振り返り効果の一考察（A Study on the Effectiveness of Using Video for Self-Reflection on Student Presentations）](http://www.jacet-kansai.org/file/2016f-1.pdf)
+  - 三木 訓子, 大賀 まゆみ
+  - 2016年度 大学英語教育学会（JACET）関西支部秋季大会＠関西外国語大学・中宮キャンパス：2016年11月26日（土）
+- [プロソディ向上に対するText-to-Speechを使った音読練習の効果](http://www.let-kansai.org/htdocs/?action=multidatabase_action_main_filedownload&download_flag=1&upload_id=794&metadata_id=12)
+  - 笠巻 知子
+  - 外国語教育メディア学会（LET）関西支部2016年度秋季研究大会＠同志社大学（今出川キャンパス）：2016年10月8日（土）
+- [共起語に見る luxury に込められた期待：WWWテキスト例に](http://jaecs.com/conf/CF_42P.pdf)
+  - 近藤 雪絵
+  - 英語コーパス学会第42回大会＠成城大学：2016年10月1日（土）
+- [リードするのは学生、デザインするのは教員。―学習者主導の授業運営を実現する「ミーティング・スタイル・クラスルーム」―](http://www.jasele.jp/2015/10/11/jasele42/)
+  - 近藤 雪絵
+  - 全国英語教育学会（JESELE）第42回埼玉研究大会＠獨協大学：2016年8月20日（土）
+- [学生の英語力と評価者としての学生の評価能力の関係　ー教員による評価と学生による相互評価の関係からー](http://jasele42-saitama.jpn.org/program/1-1.pdf)
+  - 笠巻 知子
+  - 全国英語教育学会（JESELE）第42回埼玉研究大会＠獨協大学：2016年8月20日（土）
+- [学生が大学に持ち込む携帯情報端末と学内電子リソースの活用に関する実態調査](http://gakkai.univcoop.or.jp/pcc/2016/)
+  - 木村 修平, 近藤 雪絵
+  - 2016 PC Conference＠大阪大学豊中キャンパス：2016年8月11日（木）
+- [Implementation of Peer Review in Project-based English Program: The Effects of Peer-review Process on Students’ Writing](http://www.j-let.org/let2016/index.html)
+  - TSUJI Kayo
+  - 外国語教育メディア学会 第56回全国研究大会（LET2016）＠早稲田大学早稲田キャンパス：2016年8月8日（月）
+- [学生の「プレゼンテーション力」は、評価者としての学生の評価力に影響を及ぼすか？　―教員による評価と学生による評価との関係から―](http://www.keles.jp/news/2016_21program/)
+  - 笠巻 知子
+  - 関西英語教育学会 2016年度（第21回） 研究大会＠大阪教育大学天王寺キャンパス：2016年6月12日（日）
+- [プロジェクト発信型英語プログラムにおける英語コミュニケーションテストOPIc利用の試み](http://www.keles.jp/news/2016_21program/)
+  - 大賀 まゆみ, 生駒 万貴
+  - 関西英語教育学会 2016年度（第21回） 研究大会＠大阪教育大学天王寺キャンパス：2016年6月12日（日）
+- [事例報告：プロジェクト発信型英語プログラムへの6W1Hメソッドの導入](http://www.keles.jp/news/2016_21program/)
+  - 辻 香代
+  - 関西英語教育学会 2016年度（第21回） 研究大会＠大阪教育大学天王寺キャンパス：2016年6月12日（日）
+- [プロジェクト発信型英語プログラムへの英文法チェックシート導入--学生の自律的な学習を促し、英文テキストの校正力向上を目指す--](http://www.letchubu.net/modules/xpwiki/?%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%99%BA%E4%BF%A1%E5%9E%8B%E8%8B%B1%E8%AA%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%B8%E3%81%AE%E8%8B%B1%E6%96%87%E6%B3%95%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%88%E5%B0%8E%E5%85%A5)
+  - 辻 香代
+  - LET中部支部 第87回支部研究大会＠金城学院大学：2016年5月28日（土）
+- [動画によるプレゼンテーションの振り返り効果の一考察](http://mizumot.com/methodology/index.php/meeting/archives/19)
+  - 三木 訓子, 大賀 まゆみ
+  - メソドロジー研究会 2015年度第3回研究会＠立命館大学大阪いばらきキャンパス：2015年12月19日（土）
+- [Introduction of Peer-review to the Project-based English Program: Students’ perceptions of effects of peer-review process](http://www.letchubu.net/modules/xpwiki/?Introduction%20of%20Peer-review%20to%20the%20Project-based%20English%20Program)
+  - 辻 香代
+  - LET中部支部 第86回支部研究大会＠金沢学院大学：2015年11月7日（土）
+- 学生による相互評価及びその可視化の試み: 相互評価が学習意欲に与える影響
+  - 笠巻 知子, 三木 訓子
+  - 外国語教育メディア学会（LET）関西支部 2015年度春季研究大会＠大阪電気通信大学（寝屋川キャンパス）：2015 年5月23日(土)

@@ -1,0 +1,131 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/home/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about-pep/",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/about-pep/outline/",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/about-pep/history/",
+      "destination": "/about/history/",
+      "permanent": true
+    },
+    {
+      "source": "/about-pep/achievements/",
+      "destination": "/about/achievements/",
+      "permanent": true
+    },
+    {
+      "source": "/projects/",
+      "destination": "/about/curriculum/",
+      "permanent": true
+    },
+    {
+      "source": "/skillworkshops/",
+      "destination": "/about/curriculum/",
+      "permanent": true
+    },
+    {
+      "source": "/project/",
+      "destination": "/about/curriculum/",
+      "permanent": true
+    },
+    {
+      "source": "/skillworkshop/",
+      "destination": "/about/curriculum/",
+      "permanent": true
+    },
+    {
+      "source": "/practice/",
+      "destination": "/links/",
+      "permanent": true
+    },
+    {
+      "source": "/research/eval_pragmatism/",
+      "destination": "/research/eval-pragmatism/",
+      "permanent": true
+    },
+    {
+      "source": "/eval_pragmatism/",
+      "destination": "/research/eval-pragmatism/",
+      "permanent": true
+    },
+    {
+      "source": "/page-388/",
+      "destination": "/research/",
+      "permanent": true
+    },
+    {
+      "source": "/open_badeges_application/",
+      "destination": "/research/",
+      "permanent": true
+    },
+    {
+      "source": "/faculty-members/",
+      "destination": "/members/",
+      "permanent": true
+    },
+    {
+      "source": "/faculty-members/yukiekondo/",
+      "destination": "/members/kondo/",
+      "permanent": true
+    },
+    {
+      "source": "/faculty-members/mihoyamashita/",
+      "destination": "/members/yamashita/",
+      "permanent": true
+    },
+    {
+      "source": "/faculty-members/tsukasayamanaka/",
+      "destination": "/members/",
+      "permanent": true
+    },
+    {
+      "source": "/faculty-members/syuheikimura/",
+      "destination": "/members/",
+      "permanent": true
+    },
+    {
+      "source": "/directions/",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/access/",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/pep-con/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about-pep-eng/",
+      "destination": "/en/about/",
+      "permanent": true
+    },
+    {
+      "source": "/about-pep-eng/pep-principles-and-history/",
+      "destination": "/en/about/history/",
+      "permanent": true
+    },
+    {
+      "source": "/wp/:path*",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}

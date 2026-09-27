@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+.vercel/
+.DS_Store
+# WordPressのエクスポートXMLには個人情報が含まれるためコミットしない
+*.WordPress.*.xml

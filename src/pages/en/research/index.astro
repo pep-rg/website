@@ -1,0 +1,23 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { Content as Publications } from '../../../content/publications.md';
+import { Content as Presentations } from '../../../content/presentations.md';
+---
+<Base title="Research" lang="en" description="Research projects, publications, and presentations related to PEP.">
+  <div class="page-head"><div class="wrap"><p class="kicker">RESEARCH</p><h1>Research</h1></div></div>
+  <article class="wrap prose">
+    <p>PEP is built on the principle that research is education and education is research. Members of the PEP Research Group publish and present on project-based language learning, assessment, ICT in education, academic writing, and corpus linguistics.</p>
+    <h2>Research projects</h2>
+    <ul>
+      <li>Building a pragmatist framework for assessment in university English education (<a href="/research/eval-pragmatism/">details in Japanese</a>)</li>
+      <li>A survey of students’ mobile devices and use of campus e-resources (<a href="http://itwp.pep-rg.jp/">Ritsumeikan University White Paper on Learning and ICT</a>, in Japanese)</li>
+      <li>Visualizing assessment and establishing learning strategies in project-based English classes with digital badges</li>
+    </ul>
+    <h2>Publications</h2>
+    <p class="note">Titles are shown in their original language.</p>
+    <Publications />
+    <h2>Presentations</h2>
+    <p class="note">Titles are shown in their original language.</p>
+    <Presentations />
+  </article>
+</Base>

@@ -1,0 +1,19 @@
+---
+// Markdownページ共通のレイアウト。
+// 各 .md ファイルの先頭に title / lang（en のときのみ）/ description を書く。
+import Base from './Base.astro';
+
+const fm = Astro.props.frontmatter ?? Astro.props;
+const lang = fm.lang ?? 'ja';
+---
+<Base title={fm.title} description={fm.description} lang={lang} alt={fm.alt}>
+  <div class="page-head">
+    <div class="wrap">
+      {fm.kicker && <p class="kicker">{fm.kicker}</p>}
+      <h1>{fm.title}</h1>
+    </div>
+  </div>
+  <article class="wrap prose">
+    <slot />
+  </article>
+</Base>

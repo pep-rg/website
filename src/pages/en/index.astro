@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+
+// News: add new items at the top.
+const news = [
+  { date: '2021-12-10', html: 'Published the 2022 edition of the <a href="https://docs.google.com/document/d/1iQySpznXmT_Iup0Dj2M-ajR1BRUws3BiLc6aJeE9AM0/edit?usp=sharing">laptop buying guide for new students</a> (in Japanese).' },
+  { date: '2021-03-16', html: 'Published <a href="https://journal.pep-rg.jp/2020"><i>PEP Journal 2020</i></a>.' },
+  { date: '2021-03-01', html: 'Our book on the PEP approach was published by Kitaohji Shobo (<a href="https://amzn.to/2OtQ9Gc">in Japanese</a>).' },
+];
+
+const cards = [
+  { href: '/en/about/', title: 'About PEP', text: 'Overview, philosophy and history, and achievements of the program.' },
+  { href: '/en/about/curriculum/', title: 'Curriculum', text: 'The two pillars: Projects and Skill Workshops.' },
+  { href: '/en/research/', title: 'Research', text: 'Papers and presentations grounded in PEP practice.' },
+  { href: '/en/members/', title: 'Members', text: 'The faculty and instructors who run PEP.' },
+];
+---
+<Base lang="en" description="Official website of the Project-based English Program (PEP) at Ritsumeikan University.">
+  <section class="hero">
+    <div class="wrap">
+      <h1>Project-based English Program</h1>
+      <p>
+        The Project-based English Program (PEP) is the required English curriculum of the Colleges of Life Sciences,
+        Pharmaceutical Sciences, Sport and Health Science, Comprehensive Psychology, and Arts and Design at Ritsumeikan University.
+        Students pursue projects on topics of their own choosing and present the results to the world in English.
+      </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="cards">
+      {cards.map((c) => (
+        <a class="card" href={c.href}>
+          <h3>{c.title}</h3>
+          <p>{c.text}</p>
+        </a>
+      ))}
+    </div>
+
+    <section class="section">
+      <h2>News</h2>
+      <ul class="news">
+        {news.map((n) => (
+          <li><time datetime={n.date}>{n.date.replaceAll('-', '.')}</time><span set:html={n.html} /></li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</Base>

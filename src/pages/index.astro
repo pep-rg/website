@@ -1,0 +1,49 @@
+---
+import Base from '../layouts/Base.astro';
+
+// お知らせ：新しいものを上に追加してください。
+const news = [
+  { date: '2021-12-10', html: '<a href="https://docs.google.com/document/d/1iQySpznXmT_Iup0Dj2M-ajR1BRUws3BiLc6aJeE9AM0/edit?usp=sharing">2022年度版「新入生のためのノートパソコン購入ガイド」</a>を公開しました。' },
+  { date: '2021-03-16', html: '<a href="https://journal.pep-rg.jp/2020">『PEP Journal 2020』</a>を公開しました。' },
+  { date: '2021-03-01', html: '<a href="https://amzn.to/2OtQ9Gc">『プロジェクト発信型英語プログラム 自分軸を鍛える「教えない」教育』</a>が北大路書房より発売されました。' },
+];
+
+const cards = [
+  { href: '/about/', title: 'PEPについて', text: 'プログラムの概要、理念と歴史、これまでの成果。' },
+  { href: '/about/curriculum/', title: 'カリキュラム', text: '「Projects」と「Skill Workshops」の二本柱。' },
+  { href: '/research/', title: '研究活動', text: 'PEPの実践から生まれた論文・学会発表。' },
+  { href: '/members/', title: 'メンバー', text: 'PEPを担う教員・講師の一覧。' },
+];
+---
+<Base lang="ja" description="立命館大学のプロジェクト発信型英語プログラム（Project-based English Program, PEP）の公式サイトです。">
+  <section class="hero">
+    <div class="wrap">
+      <h1>プロジェクト発信型英語プログラム</h1>
+      <p>
+        プロジェクト発信型英語プログラム（Project-based English Program, PEP）は、立命館大学
+        生命科学部・薬学部・スポーツ健康科学部・総合心理学部・デザイン・アート学部で実施されている正課英語プログラムです。
+        学生一人ひとりが自らの関心をテーマにプロジェクトを行い、その成果を英語で世界に発信します。
+      </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="cards">
+      {cards.map((c) => (
+        <a class="card" href={c.href}>
+          <h3>{c.title}</h3>
+          <p>{c.text}</p>
+        </a>
+      ))}
+    </div>
+
+    <section class="section">
+      <h2>お知らせ</h2>
+      <ul class="news">
+        {news.map((n) => (
+          <li><time datetime={n.date}>{n.date.replaceAll('-', '.')}</time><span set:html={n.html} /></li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</Base>

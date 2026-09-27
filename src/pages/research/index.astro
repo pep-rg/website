@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Content as Publications } from '../../content/publications.md';
+import { Content as Presentations } from '../../content/presentations.md';
+// 業績リストは src/content/publications.md（論文）と presentations.md（学会発表）を編集してください。
+// 英語版ページと共通です。
+---
+<Base title="研究活動" lang="ja" description="PEPに関する研究プロジェクト、論文、学会発表。">
+  <div class="page-head"><div class="wrap"><p class="kicker">RESEARCH</p><h1>研究活動</h1></div></div>
+  <article class="wrap prose">
+    <h2>研究プロジェクト</h2>
+    <ul>
+      <li><a href="/research/eval-pragmatism/">評価論プラグマティズムの構築</a></li>
+      <li>学生が大学に持ち込む携帯情報端末と学内電子リソースの活用に関する実態調査（<a href="http://itwp.pep-rg.jp/">『立命館大学 学びとICT活用白書』</a>）</li>
+      <li>電子バッジを用いたプロジェクト型英語授業の評価の可視化と学習ストラテジー確立の実証実験</li>
+    </ul>
+    <h2>論文・著書</h2>
+    <Publications />
+    <h2>学会発表</h2>
+    <Presentations />
+  </article>
+</Base>

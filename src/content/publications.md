@@ -1,0 +1,168 @@
+- AIは大学教育を不要にするのか? ―英語教育に見るテクノロジーの役割変化から考える―
+  - 木村 修平
+  - [立命館高等教育研究](https://www.ritsumei.ac.jp/itl/outline/publications/), 24, 1–13, 2024-03.
+- 小中学校英語教師の英語使用の変化とその要因 ―台湾における縦断的研究の結果から―
+  - 大賀 まゆみ
+  - [JACET関西支部紀要](https://jacet-kansai.org/wp-content/uploads/2024/04/2024contents.pdf), 26巻, 20–36, 2024-03.
+- 必修英語授業におけるChatGPT活用の試み
+  - 大賀 まゆみ、豊島 知穂、山中 司
+  - [JAAL in JACET Proceedings](https://www.jacet.org/JAAL_in_JACET_Proceedings/JAAL_in_JACET_Proceedings_Volume6.pdf) Vol.6, 65–68, 2024-03.
+- 大学院におけるメディアを活用した英語発信力育成の一考察―R2030 と新時代を見据えて―
+  - 近藤 雪絵
+  - [立命館高等教育研究](https://www.ritsumei.ac.jp/itl/assets/file/publication/kiyo/kiyo22.pdf), 22号, 55–68, 2022-03.
+- ジャンル分析による科学論文の理解にむけて―教養ゼミナール「やさしい英語論文を読む」での実践―
+  - 山下 美朋
+  - [立命館高等教育研究](https://www.ritsumei.ac.jp/itl/assets/file/publication/kiyo/kiyo22.pdf), 22号, 99–113, 2022-03.
+- コロナ禍でのオンライン双方向授業におけるESの学習支援事例報告―必修英語授業プロジェクト発信型英語プログラムにおいて ―
+  - 落合 淑美、大賀 まゆみ
+  - [立命館高等教育研究](https://www.ritsumei.ac.jp/itl/assets/file/publication/kiyo/kiyo22.pdf), 22号, 115–130, 2022-03.
+- オンライン授業の相互見学による大学横断型 FD の可能性と課題
+  - 木村修平, 近藤雪絵, 神谷健一, 坂本洋子, 神崎秀嗣, 長谷川元洋
+  - [2021PCカンファレンス論文集](https://gakkai.univcoop.or.jp/pcc/2021/papers/index.html), 111–115, 2021-08.
+- 薬学部の専門科目におけるオンライン留学プログラムの開発－コロナ禍における代替案ではなく，最善策の実現にむけて－
+  - 近藤 雪絵, 角本 幹夫, 服部 尚樹
+  - [コンピュータ＆エデュケーション](https://www.jstage.jst.go.jp/browse/konpyutariyoukyouiku/-char/ja), Vol. 50, 90–95, 2021-06.
+- 文構造の作図 Web アプリを利用した英文精読授業の新しい可能性－正しく読めているかを可視化する－
+  - 木村 修平
+  - [コンピュータ＆エデュケーション](https://www.jstage.jst.go.jp/browse/konpyutariyoukyouiku/-char/ja), Vol.50, 104–107, 2021-06.
+- 精神の座としての〈腹〉の史的展開再考－中世以前の表現に注目して－
+  - 後藤 秀貴
+  - 言語文化共同研究プロジェクト2020 感情・感覚のレトリック, 51–63, 2021-05.
+- 正課授業でのBeyond Borders Plaza 利用実践の報告 : オーディエンスと発表者の視点から
+  - 大賀 まゆみ, 落合 淑美
+  - [立命館高等教育研究](http://www.ritsumei.ac.jp/itl/publication/), 21号, 261–274, 2021-03.
+- 必修授業でのクラス合同発表会イベント実施の試み ―発表者は何を学ぶのか―
+  - 落合 淑美, 大賀 まゆみ
+  - [JACET関西支部紀要](http://www.jacet-kansai.org/journal.html), 23号, 177–182, 2021-03.
+- BYOD環境を前提とした大学授業のフィージビリティ研究 -プロジェクト型英語プログラムの実践に基づいて-
+  - 木村 修平, 近藤 雪絵, 島田 伸敬
+  - AXIES2020年度年次大会論文集, 34–41, 2020-12.
+- 学習英文法における比較表現の再考 [Reconsidering Comparative Expressions in Pedagogical English Grammar]
+  - 松田 佑治
+  - 立命館言語文化研究 32(2), 29–44, 2020-09.
+- [非常時の大学英語授業のオンライン実施に関する考察 ―2020 年度春学期の振り返り―](https://gakkai.univcoop.or.jp/pcc/2020/papers/pdf/pcc051.pdf)
+  - 木村 修平, 近藤 雪絵
+  - PC Conference論文集（2020）, 87–88, 2020-08.
+- [英語教育関係者はAIによる淘汰に「座して死を待つ」ことしかしないのか？ ー未来を先取りした自己変革が求められる「彼ら」に対する警鐘の哲学ー](http://www.lib.kobe-u.ac.jp/infolib/meta_pub/G0000003kernel_81011983)
+  - 山中 司
+  - 神戸大学国際コミュニケーションセンター論集, 16, 49–57, 2020-03.
+- [A Teacher's Language Use in Junior High School English Classrooms in Shanghai -From the Results of a Two-Year Analysis-](http://www.jacet-kansai.org/file/2020articles.pdf)
+  - OGA Mayumi
+  - JACET Kansai Journal, 22, 103–117, 2020-03.
+- CALL から CILL へ：SFC 英語から生まれたプロジェクト発信型英語プログラムを例に
+  - 木村 修平
+  - KEIO SFC JOURNAL, 19(2), 2020-03.
+- BYOD 環境下でのプロジェクト型英語授業の要件に関する考察
+  - 木村 修平
+  - CIEC春季カンファレンス論文集, 1, 2020-03.
+- Computer-Integrated Language Learning - 大学英語教育の新しい地平 -
+  - 木村 修平
+  - 博士論文, 慶應義塾大学大学院政策・メディア研究科, 2020-03.
+- ライティング支援SAPPにおけるチューターの指導戦略の分析
+  - 山下 美朋
+  - 立命館高等教育研究, 20, 77–95, 2020-03.
+- [語法ノート] Nの典型例や象徴を示す as N as it gets / as N as they come 構文―as … as 構文の … の位置に名詞が生起しうる例―
+  - 松田 佑治
+  - [英語語法文法研究](http://www.kaitakusha.co.jp/search/search.php?s=020403), 26, 217–223, 2019–12.
+- [学習英文法における「be 動詞 ＋ 度量句＋ 形容詞」型表現の体系化を巡って](http://www.ritsumei.ac.jp/file.jsp?research/iilcs/03_lcs_31_2_matsuda.pdf)
+  - 松田 佑治
+  - [立命館 国際言語文化研究, 31巻2号](http://www.ritsumei.ac.jp/research/iilcs/publications/papers/article.html/?id=5), 27–38, 2019-10.
+- [自分を肯定して生きる プラグマティックな生き方入門](http://www.kairyusha.co.jp/ISBN/ISBN978-4-7593-1625-4.html)
+  - 山中司
+  - 海竜社, 2019-04.
+- [A Corpus-Based Study of the Concept of ‘Luxury’ Using Web-Crawled Corpora, enTenTen 2013 and ukWaC](https://link.springer.com/journal/41701/3/1/page/1)
+  - KONDO Yukie
+  - Corpus Pragmatics, International Journal of Corpus Linguistics and Pragmatics, 3(1), 1–20, 2019.
+- [BYOD型大学英語プログラムが IT スキルの自己評価に及ぼす影響―英語と IT をインフラとして捉える教育実践―](https://ci.nii.ac.jp/naid/40021751511)
+  - 木村修平
+  - コンピュータ＆エデュケーション, 127–132, 2018.
+- [“パソコンが使えない大学生”問題はなぜ起こるか ―立命館大学大規模調査から考える―](http://gakkai.univcoop.or.jp/pcc/2018/papers/pdf/pcc005.pdf)
+  - 木村 修平, 近藤 雪絵
+  - PC Conference論文集（2018）, 179–182, 2018-08.
+- [Corpus-based Study of Hotel Overviews on Official Websites: Language Strategies for Self-promotion](http://jaecs.com/journal25.html)
+  - KONDO Yukie
+  - The JASEC Bulletin, The Japanese Association for Studies in English Communication, Vol. 27, no. 1, pp. 105–115, 2018.
+- Move Development of London Hotel Overviews on Official Websites: Luxury Strategies in Overview Texts
+  - KONDO Yukie
+  - English Corpus Studies, Japan Association for English Corpus Studies, Vol. 25, no. 1, pp. 2–39, 2018.
+- [Implementation of the writing activity focusing on 5W1H questions: An approach to improving student writing performance](https://www.jstage.jst.go.jp/article/letcj/28/0/28_1/_pdf)
+  - TSUJI Kayo
+  - 外国語教育メディア学会中部支部研究紀要 Vol. 28, 1–12, 2017.
+- [“パソコンが使えない大学生”の実態に迫る―立命館大学6学部の横断調査に基づいて―](http://gakkai.univcoop.or.jp/pcc/2017/papers/pdf/pcc086.pdf)
+  - 木村 修平, 近藤 雪絵
+  - PC Conference論文集（2017）, 279–282, 2017-08.
+- [Project-based English Program における学生による相互評価及びその可視化の試み](http://www.ritsumei.ac.jp/acd/ac/itl/outline/kiyo/kiyo17/11_miki_kasamaki.pdf)
+  - 三木 訓子, 笠巻 知子
+  - 立命館高等教育研究 (17), 165-181, 2017-03.
+- [Introduction of Peer Review to Project-based English Program: Students’ Perceptions of their Learning in Peer-review Process](https://www.jstage.jst.go.jp/article/letcj/27/0/27_1/_article/-char/ja/)
+  - TSUJI Kayo
+  - 外国語教育メディア学会中部支部研究紀要 Vol. 27 (2016), 1–10, 2016.
+- [学生が大学に持ち込む携帯情報端末と学内電子リソースの活用に関する実態調査](http://gakkai.univcoop.or.jp/pcc/2016/papers/pdf/All_Paper.pdf)
+  - 木村 修平, 近藤 雪絵
+  - PC Conference論文集（2016）, 177–180, 2016-08.
+- [学生の書く英語論証文の論理構造を探る－分析的枠組みの援用・開発を目指して](http://ci.nii.ac.jp/naid/40020883098)
+  - 山下美朋
+  - 英語コーパス研究, 23, 1–19, 2016-05.
+- [「プロジェクト発信型英語プログラム」の実践知 −立命館大学における成果と課題の共有−](http://www.ritsumei.ac.jp/acd/ac/itl/outline/kiyo/kiyo16/15_yamanaka.pdf)
+  - 山中 司, 河井 亨
+  - 立命館高等教育研究 (16), 219–231, 2016-03.
+- [Exploring an Adequate Placement Test with Face Validity and Learners' Sense of Reality: A Consideration of the Vulnerabilities in Existing English Assessment Models and an Attempt at a Solution](http://www.ritsumei.ac.jp/acd/ac/itl/outline/kiyo/kiyo16/10_yamanaka.pdf)
+  - YAMANAKA Tsukasa, KONDO Yukie
+  - Ritsumeikan higher educational studies (16), 147–162, 2016-03.
+- [反転授業メソッドを用いた英語リメディアルコースの効果と課題 −2年間の試みに基づいて−](http://www.ritsumei.ac.jp/acd/ac/itl/outline/kiyo/kiyo16/08_yuhaku.pdf)
+  - 祐伯 敦史, 大石 衡聴, 木村 修平
+  - 立命館高等教育研究 (16), 117–132, 2016-03.
+- [＜研究ノート＞思考整理に焦点をあてた協働的ライティング活動の試み--プレライティング活動が学生の学習に及ぼす影響--](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/219549)
+  - 辻 香代
+  - 京都大学高等教育研究 (22), 77–86, 2016-12.
+- [大規模英語再履修クラスにおける授業実践報告](https://doors.doshisha.ac.jp/duar/repository/ir/23133/045000070007.pdf)
+  - 大賀 まゆみ
+  - 同志社大学 学習支援・教育開発センター年報 (7), 103–123, 2016.
+- [大学英語教育におけるプロジェクトを主体とした教育手法の効果 : オートノミーの育成と学習への動機付けに着目して](http://r-cube.ritsumei.ac.jp/bitstream/10367/6408/2/GL32_p105yamanaka.pdf)
+  - 山中 司
+  - 立命館人間科学研究 (32), 105–116, 2015-08.
+- [反転授業形式による必修英語授業補完コースの試み―効果の検証と課題点―](http://gakkai.univcoop.or.jp/pcc/2015/papers/pdf/pcc067.pdf)
+  - 木村 修平, 祐伯 敦史
+  - PC Conference論文集 2015, 113–116, 2015-08.
+- [自主的学習サイクルを生み出す場としての「英語でビブリオバトル」](http://r-cube.ritsumei.ac.jp/bitstream/10367/6409/2/GL32_p117kondo.pdf)
+  - 近藤 雪絵, 大賀 まゆみ, 山下 美朋
+  - 立命館人間科学研究 (32), 117–129, 2015-08.
+- [Project Report 立命館大学 生命科学部・薬学部: 「探求」と「発信」が相乗効果を生むカリキュラムでTOEIC®プログラムを活用しコミュニケーション能力を高める](http://www.toeic.or.jp/library/toeic_data/sys/letter/TOEICNewsletter125.pdf)
+  - 山中 司、近藤 雪絵
+  - TOEIC Newsletter (125), 6–7, 2015-06.
+- [An Analysis of English Argumentative Essays written by Japanese University Students Based on Four Analytical Frameworks to Identify Coherence Breaks](http://ci.nii.ac.jp/naid/110009934977)
+  - YAMASHITA Miho
+  - 大学英語教育学会関西支部紀要 JACET KANSAI Journal, 17, 93–112, 2015-05.
+- [大学英語教育における評価の「無力化」と「実用化」に関する一考察: 論文 "A Nice Derangement of Epitaphs" を問題提起として](http://www.ritsumei.ac.jp/acd/re/k-rsc/lcs/kiyou/pdf_26-4/RitsIILCS_26.4pp331-344YAMANAKA.pdf)
+  - 山中 司
+  - 立命館言語文化研究 (26), 331–344, 2015-03.
+- [A Report on "English for Science & Technology at UC Davis": The Overseas Program of the Colleges of Life Sciences, Pharmaceutical Sciences, and Sports and Health Science](http://r-cube.ritsumei.ac.jp/bitstream/10367/6457/2/hes15yamanaka.pdf)
+  - YAMANAKA Tsukasa
+  - Ritsumeikan higher educational studies (15), 101–112, 2015-03.
+- [生命科学部・薬学部｢プロジェクト発信型英語プログラム｣における独自のプレイスメント評価モデル"English Test in Academic Context(e-TAC)"の実施について : 成果と課題](http://r-cube.ritsumei.ac.jp/bitstream/10367/5283/1/hes14_kondo.pdf)
+  - 近藤 雪絵, 山中 司
+  - 立命館高等教育研究 (14), 131–146, 2014-03.
+- [反転授業形式による英文ライティング添削指導のためのオンライン動画教材の作成と活用について](http://ci.nii.ac.jp/naid/40020336301)
+  - 木村 修平, 山本 好比古, 祐伯 敦史
+  - CIEC研究会論文誌 (5), 80–83, 2014-02.
+- [Teaching & Managing a Project-based English Course to the College students in Diverse Levels of English Proficiency](http://iafor.org/archives/offprints/ace2013-offprints/ACE2013_0429.pdf)
+  - YAMAMOTO Yoshihiko, KIMURA Syuhei
+  - The Fifth Asian Conference on Education 2013, proceedings, 920–933, 2014-01.
+- [プロジェクト型英語プログラムにおけるICTスキル教育の有機的導入の試み](http://gakkai.univcoop.or.jp/pcc/2013/papers/pdf/pcc038.pdf)
+  - 木村 修平
+  - PC Conference論文集 2013, 177–180, 2013-08.
+- [Diversified Research Considerations of the Project-based English Program: An Overview from the Viewpoints of Institutional Theory, Communication Philosophy, and its Evaluation Framework](http://r-cube.ritsumei.ac.jp/bitstream/10367/4678/1/hes13YAMANAKA.pdf)
+  - YAMANAKA Tsukasa
+  - Ritsumeikan higher educational studies (13), 187–196, 2013-03.
+- [立命館大学生命科学部・薬学部「プロジェクト発信型英語プログラムーProject-based English Program」の理論的基盤と実践 (特集 立命館大学の言語教育改革)](http://www.ritsumei.ac.jp/acd/ac/itl/outline/kiyo/kiyo10/03_suzuki.pdf)
+  - 鈴木 佑治
+  - 立命館高等教育研究 (10), 43–61, 2010-03.
+- [プラグマティズムの英語教育論的含意 : R. Rortyの自文化中心主義・語彙論が示唆する新たな英語教育パラダイムの地平](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/0402-0702-0600.pdf?file_id=20584)
+  - 山中 司
+  - Keio SFC journal 7(2), 68–78, 2007.
+- [コミュニケーションを重視した英語教育における言語メディアの限界に関する理論的考察 : 言語の役割の相対的低下とコミュニケーションを重視した教育の新たな可能性](http://ci.nii.ac.jp/els/110009780613.pdf?id=ART0010276909&type=pdf&lang=jp&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1455235714&cp=)
+  - 山中 司
+  - 教育メディア研究 14(1), 59–70, 2007-10.
+- [コミュニケーションを重視した大学英語教育における発信能力の評価 : 基礎研究と評価モデルの提案](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/0302-0000-0572.pdf?file_id=24623)
+  - 山中 司
+  - 修士論文, 慶應義塾大学大学院政策・メディア研究科, 2006-09.

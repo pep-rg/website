@@ -1,0 +1,21 @@
+{
+  "name": "pep-rg-website",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pep-rg/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pep-rg/website/issues"
+  },
+  "homepage": "https://github.com/pep-rg/website#readme",
+  "dependencies": {
+    "astro": "^7.3.5"
+  },
+  "private": true,
+  "type": "module"
+}

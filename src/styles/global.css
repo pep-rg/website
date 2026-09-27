@@ -1,6 +1,9 @@
 :root {
-  --accent: #8a1c35;        /* 立命館カラーに近いワインレッド */
-  --accent-soft: #f6ecee;
+  /* 色はページのセクションごとに Base.astro が上書きする（src/i18n.ts の palette） */
+  --accent: #ac181e;        /* ロゴ本来の色（線・帯） */
+  --accent-ink: #ac181e;    /* 文字用に読みやすく調整した色 */
+  --accent-soft: #f9ecec;
+  --ritsumei: #ac181e;      /* 立命館カラー（PEPロゴ） */
   --ink: #1f2328;
   --ink-soft: #57606a;
   --line: #e3e5e8;
@@ -18,7 +21,7 @@
 * { box-sizing: border-box; }
 body { margin: 0; }
 img { max-width: 100%; height: auto; }
-a { color: var(--accent); text-underline-offset: 3px; }
+a { color: var(--accent-ink); text-underline-offset: 3px; }
 a:hover { text-decoration-thickness: 2px; }
 
 .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 20px; }
@@ -27,7 +30,7 @@ a:hover { text-decoration-thickness: 2px; }
 .skip:focus { left: 12px; top: 12px; background: #fff; padding: 8px 12px; z-index: 10; }
 
 /* Header */
-.site-header { border-bottom: 1px solid var(--line); background: #fff; }
+.site-header { border-top: 4px solid var(--accent); border-bottom: 1px solid var(--line); background: #fff; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-top: 18px; padding-bottom: 10px; }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); }
 .brand-logo { width: 56px; height: 56px; object-fit: contain; flex-shrink: 0; }
@@ -35,16 +38,19 @@ a:hover { text-decoration-thickness: 2px; }
 .brand-name { font-weight: 700; font-size: 1.05rem; }
 .brand-tag { font-size: .8rem; color: var(--ink-soft); }
 .lang-switch { font-size: .85rem; border: 1px solid var(--line); border-radius: 999px; padding: 4px 14px; text-decoration: none; color: var(--ink); white-space: nowrap; }
-.lang-switch:hover { border-color: var(--accent); color: var(--accent); }
+.lang-switch:hover { border-color: var(--accent); color: var(--accent-ink); }
 
 .site-nav ul { list-style: none; margin: 0; padding: 0 0 4px; display: flex; flex-wrap: wrap; gap: 2px 18px; }
-.site-nav a { display: inline-block; padding: 8px 0; text-decoration: none; color: var(--ink-soft); font-size: .95rem; border-bottom: 2px solid transparent; }
-.site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--accent); }
+/* メニュー：各項目にロゴのカラバリを1色ずつ割り当て、ホバー・表示中に下線で見せる */
+.site-nav a { position: relative; display: inline-flex; align-items: center; gap: 7px; padding: 8px 0; text-decoration: none; color: var(--ink-soft); font-size: .95rem; border-bottom: 3px solid transparent; }
+.site-nav a::before { content: ""; width: 8px; height: 8px; border-radius: 2px 0 2px 2px; background: var(--c); flex-shrink: 0; }
+.site-nav a:hover { color: var(--ink); border-bottom-color: var(--c); }
+.site-nav a[aria-current="page"] { color: var(--ink); font-weight: 700; border-bottom-color: var(--c); }
 
 /* Page head */
-.page-head { background: var(--bg-alt); border-bottom: 1px solid var(--line); padding: 36px 0 28px; margin-bottom: 32px; }
+.page-head { background: var(--accent-soft); border-bottom: 3px solid var(--accent); padding: 36px 0 28px; margin-bottom: 32px; }
 .page-head h1 { margin: 0; font-size: clamp(1.5rem, 3.4vw, 2rem); line-height: 1.4; }
-.kicker { margin: 0 0 4px; color: var(--accent); font-weight: 700; font-size: .85rem; letter-spacing: .08em; }
+.kicker { margin: 0 0 4px; color: var(--accent-ink); font-weight: 700; font-size: .85rem; letter-spacing: .08em; }
 
 /* Prose */
 .prose { padding-bottom: 64px; }
@@ -63,14 +69,16 @@ a:hover { text-decoration-thickness: 2px; }
 .note { font-size: .9rem; color: var(--ink-soft); }
 
 /* Home */
-.hero { background: linear-gradient(135deg, var(--accent) 0%, #5c1022 100%); color: #fff; padding: 64px 0 56px; }
+.hero { background: linear-gradient(135deg, var(--ritsumei) 0%, #6b0f13 100%); color: #fff; padding: 64px 0 56px; }
 .hero h1 { margin: 0 0 12px; font-size: clamp(1.6rem, 4.2vw, 2.4rem); line-height: 1.35; }
 .hero p { margin: 0; max-width: 40em; opacity: .95; }
 .hero a { color: #fff; }
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin: 40px 0; }
 .card { display: block; border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; text-decoration: none; color: var(--ink); transition: border-color .15s, transform .15s; }
 .card:hover { border-color: var(--accent); transform: translateY(-2px); }
-.card h3 { margin: 0 0 6px; font-size: 1.05rem; color: var(--accent); }
+.card { border-top: 4px solid var(--c, var(--accent)); }
+.card h3 { margin: 0 0 6px; font-size: 1.05rem; color: var(--c-ink, var(--accent-ink)); }
+.card:hover { border-color: var(--c, var(--accent)); }
 .card p { margin: 0; font-size: .92rem; color: var(--ink-soft); line-height: 1.7; }
 .news { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--line); }
 .news li { display: grid; grid-template-columns: 8em 1fr; gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--line); }

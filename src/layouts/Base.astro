@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { site, alternatePath, type Lang } from '../i18n';
+import { site, palette, sectionColor, alternatePath, type Lang } from '../i18n';
 
 interface Props {
   title?: string;
@@ -15,7 +15,13 @@ const t = site[lang];
 const pathname = Astro.url.pathname;
 const altHref = alt ?? alternatePath(pathname, lang);
 const fullTitle = title ? `${title} | ${t.name}（PEP）` : `${t.name}（PEP）`;
-const isCurrent = (href: string) => pathname === href || pathname === href.replace(/\/$/, '');
+const color = sectionColor(pathname, lang);
+const c = palette[color];
+// そのページが属するメニュー項目（サブページでも親メニューを強調）
+const currentHref = t.nav
+  .filter((i) => (pathname.endsWith('/') ? pathname : pathname + '/').startsWith(i.href))
+  .sort((a, b) => b.href.length - a.href.length)[0]?.href;
+const isCurrent = (href: string) => href === currentHref;
 const home = lang === 'en' ? '/en/' : '/';
 ---
 <!doctype html>
@@ -26,20 +32,22 @@ const home = lang === 'en' ? '/en/' : '/';
     <title>{fullTitle}</title>
     {description && <meta name="description" content={description} />}
     <link rel="alternate" hreflang={lang === 'ja' ? 'en' : 'ja'} href={new URL(altHref, Astro.site)} />
-    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content={c.base} />
   </head>
-  <body>
+  <body style={`--accent:${c.base};--accent-ink:${c.ink};--accent-soft:${c.soft}`} data-section={color}>
     <a class="skip" href="#main">{lang === 'ja' ? '本文へ移動' : 'Skip to content'}</a>
     <header class="site-header">
       <div class="wrap header-inner">
         <a class="brand" href={home}>
           <img
-            src="/pep-logo.png"
-            alt="PEP – プロジェクト発信型英語プログラム"
+            src={`/logo/pep-${color}.png`}
+            alt="PEP"
             class="brand-logo"
-            width="72"
-            height="72"
+            width="56"
+            height="56"
           />
           <span class="brand-text">
             <span class="brand-name">{t.name}</span>
@@ -51,7 +59,7 @@ const home = lang === 'en' ? '/en/' : '/';
       <nav class="wrap site-nav" aria-label={lang === 'ja' ? 'メインメニュー' : 'Main menu'}>
         <ul>
           {t.nav.map((item) => (
-            <li><a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>{item.label}</a></li>
+            <li><a href={item.href} style={`--c:${palette[item.color].base}`} aria-current={isCurrent(item.href) ? 'page' : undefined}>{item.label}</a></li>
           ))}
         </ul>
       </nav>

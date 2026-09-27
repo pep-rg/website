@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import { palette, sectionColor } from '../../i18n';
 
 // News: add new items at the top.
 const news = [
@@ -30,7 +31,7 @@ const cards = [
   <div class="wrap">
     <div class="cards">
       {cards.map((c) => (
-        <a class="card" href={c.href}>
+        <a class="card" href={c.href} style={(() => { const k = palette[sectionColor(c.href, 'en')]; return `--c:${k.base};--c-ink:${k.ink}`; })()}>
           <h3>{c.title}</h3>
           <p>{c.text}</p>
         </a>

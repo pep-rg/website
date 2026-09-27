@@ -30,7 +30,7 @@ a:hover { text-decoration-thickness: 2px; }
 .site-header { border-bottom: 1px solid var(--line); background: #fff; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-top: 18px; padding-bottom: 10px; }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); }
-.brand-mark { background: var(--accent); color: #fff; font-weight: 800; letter-spacing: .06em; padding: 6px 10px; border-radius: 6px; font-size: 1rem; }
+.brand-logo { width: 56px; height: 56px; object-fit: contain; flex-shrink: 0; }
 .brand-text { display: flex; flex-direction: column; line-height: 1.3; }
 .brand-name { font-weight: 700; font-size: 1.05rem; }
 .brand-tag { font-size: .8rem; color: var(--ink-soft); }

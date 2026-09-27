@@ -26,6 +26,7 @@ const home = lang === 'en' ? '/en/' : '/';
     <title>{fullTitle}</title>
     {description && <meta name="description" content={description} />}
     <link rel="alternate" hreflang={lang === 'ja' ? 'en' : 'ja'} href={new URL(altHref, Astro.site)} />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   </head>
   <body>
@@ -33,7 +34,13 @@ const home = lang === 'en' ? '/en/' : '/';
     <header class="site-header">
       <div class="wrap header-inner">
         <a class="brand" href={home}>
-          <span class="brand-mark">PEP</span>
+          <img
+            src="/pep-logo.png"
+            alt="PEP – プロジェクト発信型英語プログラム"
+            class="brand-logo"
+            width="72"
+            height="72"
+          />
           <span class="brand-text">
             <span class="brand-name">{t.name}</span>
             <span class="brand-tag">{t.tagline}</span>
